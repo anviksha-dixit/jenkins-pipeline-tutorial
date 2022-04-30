@@ -4,7 +4,7 @@ pipeline {
         stage('Static Analysis') {
             steps {
                 echo 'Run the static analysis to the code' 
-                echo 'Change has been made by ANVIKSHA'
+                echo 'Change has been made by ANVIKSHA DIXIT'
             }
         }
         stage('Compile') {
